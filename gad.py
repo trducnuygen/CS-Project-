@@ -123,5 +123,5 @@ def show_results(folder):
         plt.show()
 
 
-show_results("./celeba-dataset/img_align_celeba/img_align_celeba")
-# show_results("./img")
+# show_results("./celeba-dataset/img_align_celeba/img_align_celeba")
+show_results("./img")
